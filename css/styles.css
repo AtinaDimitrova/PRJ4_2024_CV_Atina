@@ -16,6 +16,10 @@ body {
 .resume-header {
     background-color: #007351;
 }
+.resume-headercolor{
+	color:#FFFFFF;
+	text-decoration: underline #FFFFFF;
+}
 
 .resume-main {
 	background-color: #8DC0A3;
